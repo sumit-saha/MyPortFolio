@@ -41,7 +41,7 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <form
-                action="https://github.com/SumeetSaha/PortFolio"
+                action="https://github.com/SumeetSaha/MyPortFolio"
                 target="_blank"
               >
                 <button type="submit">Github</button>
